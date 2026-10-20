@@ -1,16 +1,31 @@
-### Jin Minchan
+<h1 align="center">Minchan Jin · 진민찬</h1>
 
-<!--
-**JinMinChan/JinMinChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Robot Learning · Dexterous Manipulation · Vision-Language-Action</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I work on robot learning for dexterous manipulation.<br>
+  My interests span vision-language-action models, reinforcement learning,<br>
+  and tactile sensing for robotic hands.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/manipulation-demo.png" alt="A Franka arm with an Allegro hand grasping an object in MuJoCo simulation." width="100%">
+</p>
+<p align="center"><sub>A glimpse into my work — arm–hand manipulation in MuJoCo simulation.</sub></p>
+
+## Research Interests
+
+- **Dexterous manipulation** — coordinated arm–hand control and in-hand manipulation.
+- **Robot learning** — VLA models, imitation learning, and reinforcement learning.
+- **Tactile sensing** — contact-aware manipulation with multi-finger sensing.
+
+## Tools I Work With
+
+<p>
+  <img src="assets/python.svg" alt="Python" height="27">
+  <img src="assets/pytorch.svg" alt="PyTorch" height="27">
+  <img src="assets/ros2.svg" alt="ROS 2" height="27">
+  <img src="assets/isaac-lab.svg" alt="Isaac Lab" height="27">
+  <img src="assets/mujoco.svg" alt="MuJoCo" height="27">
+  <img src="assets/octo.svg" alt="Octo" height="27">
+</p>
