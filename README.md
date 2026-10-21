@@ -13,12 +13,12 @@
 </p>
 <p align="center"><sub>A glimpse into my work — arm–hand manipulation in MuJoCo simulation.</sub></p>
 
-## RGB-D Guided Robotic Manipulation · KETI WIC
+## RGB-D Guided Robotic Manipulation
 
 Developed an end-to-end robotic manipulation system integrating YOLO-based object segmentation, RGB-D perception, task planning, motion planning, and real-robot execution.
 
 <p align="center">
-  <img src="assets/keti-wic-demo.gif" alt="A real robot picking a part from a tray and placing it at a corresponding location on the work surface during KETI WIC." width="100%">
+  <img src="assets/keti-wic-demo.gif" alt="A real robot picking a part from a tray and placing it at a corresponding location on the work surface." width="100%">
 </p>
 <p align="center"><sub>Real-robot pick-and-place demonstration · 1.5× playback speed.</sub></p>
 
